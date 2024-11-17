@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/937ae1d5-e21c-45e3-bf77-f617e874ca13)# Series Queues with infinite capacity - Open Jackson NetworK
+# Series Queues with infinite capacity - Open Jackson NetworK
 # NAME: PRASANNA I
 # REG NO:212223220079
 
