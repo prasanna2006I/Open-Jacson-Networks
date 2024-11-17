@@ -1,4 +1,4 @@
-![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/1603101c-c680-45d0-b783-c612a86c1c25)![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/c46eac71-25bd-4d55-8e2f-ab74d53509b7)# Series Queues with infinite capacity - Open Jackson NetworK
+![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/98d1aa83-c5fe-4a9b-9f6d-520477907bef)![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/1603101c-c680-45d0-b783-c612a86c1c25)![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/c46eac71-25bd-4d55-8e2f-ab74d53509b7)# Series Queues with infinite capacity - Open Jackson NetworK
 # NAME: PRASANNA I
 # REG NO:212223220079
 
@@ -24,7 +24,9 @@ Visual components and Python
 
 
 
-![Uploading Screenshot 2024-11-17 114933.png…]()
+![Screenshot 2024-11-17 114933](https://github.com/user-attachments/assets/e41fb740-1d7f-479d-bdf1-037501e1e205)
+
+
 
 
 ## Program
