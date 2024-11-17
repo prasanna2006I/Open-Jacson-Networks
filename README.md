@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson NetworK
+# Series Queues with infinite capacity - Open Jackson Network
 # NAME: PRASANNA I
 # REG NO:212223220079
 
